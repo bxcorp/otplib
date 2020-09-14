@@ -9,9 +9,7 @@
 
 /docs
 /lib-test.js
-/packages
 /rollup.config.js
-/scripts
 /site
 /webpack.config.js
 
