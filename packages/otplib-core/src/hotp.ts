@@ -16,6 +16,8 @@ import {
   padStart
 } from './utils';
 
+import { Buffer } from '../../browserify/buffer';
+
 /**
  * Interface for options used in HOTP.
  */

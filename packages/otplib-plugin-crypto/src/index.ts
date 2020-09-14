@@ -1,4 +1,6 @@
-import crypto from 'crypto';
+import crypto from '../../browserify/crypto'; 
+import { Buffer } from '../../browserify/buffer';
+
 import {
   CreateDigest,
   CreateRandomBytes,

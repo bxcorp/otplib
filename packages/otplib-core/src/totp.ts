@@ -12,6 +12,8 @@ import {
 } from './utils';
 import { HOTP, HOTPOptions, hotpOptionsValidator, hotpToken } from './hotp';
 
+import { Buffer } from '../../browserify/buffer';
+
 /**
  * Interface for options used in TOTP.
  *

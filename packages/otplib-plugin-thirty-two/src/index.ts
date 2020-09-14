@@ -9,6 +9,8 @@ import {
   SecretKey
 } from '@otplib/core';
 
+import { Buffer } from '../../browserify/buffer';
+
 /**
  * - Key decoder using npm `thirty-two`
  */
